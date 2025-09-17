@@ -29,6 +29,3 @@
 - Teste de fallback
 
   <img width="1187" height="354" alt="fallback" src="https://github.com/user-attachments/assets/eee359e6-5680-4e38-bbf3-39f96395b013" />
-
-
-<img width="441" height="102" alt="phpalterado" src="https://github.com/user-attachments/assets/86f5cb7d-6dad-44bd-8d73-b0b1ad788125" />
